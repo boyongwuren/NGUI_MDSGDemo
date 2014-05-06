@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\HudScript\HudToolBtn.cs">
+    <Files>
+      <File FileName="Assets\Script\Commonscript\MouseTip.cs" Line="17" Column="2" />
+      <File FileName="Assets\Script\HudScript\HeadInfoScript.cs" Line="68" Column="5" />
+      <File FileName="Assets\Script\Commonscript\TipManager.cs" Line="50" Column="3" />
+      <File FileName="Assets\Script\DataVo\UserVo.cs" Line="20" Column="25" />
+      <File FileName="Assets\Script\Component\TogButton.cs" Line="13" Column="29" />
+      <File FileName="Assets\Script\Commonscript\EventDispatcher.cs" Line="86" Column="33" />
+      <File FileName="Assets\Script\HudScript\TownInfoPanel.cs" Line="27" Column="46" />
+      <File FileName="Assets\Script\HudScript\HudToolBtn.cs" Line="106" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

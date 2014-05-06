@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\UI\UITooltip.cs">
+    <Files>
+      <File FileName="Assets\Script\Commonscript\UnitComponent.cs" Line="17" Column="24" />
+      <File FileName="Assets\Script\Commonscript\MapPanel.cs" Line="35" Column="19" />
+      <File FileName="Assets\NGUI\Scripts\UI\UITooltip.cs" Line="59" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

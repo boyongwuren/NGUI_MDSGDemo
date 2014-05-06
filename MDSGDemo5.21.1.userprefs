@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\RoleInfoScript\RoleItem.cs">
+    <Files>
+      <File FileName="Assets\Script\RoleInfoScript\RoleItemContent.cs" Line="139" Column="19" />
+      <File FileName="Assets\Script\Commonscript\EventDispatcher.cs" Line="4" Column="14" />
+      <File FileName="Assets\Script\Commonscript\LoadManager.cs" Line="6" Column="43" />
+      <File FileName="Assets\Script\RoleInfoScript\RoleInfoPanel.cs" Line="30" Column="25" />
+      <File FileName="Assets\Script\RoleInfoScript\LabelContent.cs" Line="29" Column="15" />
+      <File FileName="Assets\Script\Commonscript\TempDataFactroy.cs" Line="157" Column="2" />
+      <File FileName="Assets\Script\RoleInfoScript\RoleItem.cs" Line="30" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

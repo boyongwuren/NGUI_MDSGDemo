@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\RoleInfoScript\RoleItemContent.cs">
+    <Files>
+      <File FileName="Assets\Script\Commonscript\LoadManager.cs" Line="29" Column="22" />
+      <File FileName="Assets\Script\Commonscript\EventDispatcher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HudScript\HeadInfoScript.cs" Line="62" Column="3" />
+      <File FileName="Assets\Script\Commonscript\TipManager.cs" Line="28" Column="18" />
+      <File FileName="Assets\Script\HudScript\TownInfoPanel.cs" Line="27" Column="46" />
+      <File FileName="Assets\Script\Commonscript\MouseTip.cs" Line="33" Column="26" />
+      <File FileName="Assets\Script\HudScript\HudToolBtn.cs" Line="93" Column="58" />
+      <File FileName="Assets\Script\RoleInfoScript\EquipContent.cs" Line="41" Column="10" />
+      <File FileName="Assets\Script\RoleInfoScript\RoleInfoPanel.cs" Line="105" Column="29" />
+      <File FileName="Assets\Script\ConstScript\URLConst.cs" Line="6" Column="53" />
+      <File FileName="Assets\Script\RoleInfoScript\LabelContent.cs" Line="38" Column="20" />
+      <File FileName="Assets\Script\utils\RoleProfession.cs" Line="20" Column="35" />
+      <File FileName="Assets\Script\RoleInfoScript\RoleItemContent.cs" Line="49" Column="15" />
+      <File FileName="Assets\Script\DataVo\UserVo.cs" Line="4" Column="29" />
+      <File FileName="Assets\Script\DataVo\BaseVo.cs" Line="5" Column="1" />
+      <File FileName="Assets\Script\DataVo\EudVo.cs" Line="4" Column="28" />
+      <File FileName="Assets\Script\RoleInfoScript\EquipItem.cs" Line="41" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
